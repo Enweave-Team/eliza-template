@@ -4,23 +4,25 @@ import {Controller} from "@nestjs/common";
 @Controller('/orders')
 export class OrderController {
 
-    create(){
+
+    create() {
 
     }
 
-    delete(){
+    delete() {
 
     }
 
-    edit(){
+    edit() {
 
     }
 
-    getAll(){
+
+    getAll() {
 
     }
 
-    getOne(){
+    getOne() {
 
     }
 
